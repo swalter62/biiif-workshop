@@ -20,7 +20,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_1"
+                    "Page 1"
                   ]
                 },
                 "width": 1016,
@@ -33,7 +33,7 @@
       ],
       "label": {
         "@none": [
-          "_1"
+          "Page 1"
         ]
       },
       "width": 1016,
