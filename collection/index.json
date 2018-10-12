@@ -231,6 +231,20 @@
           "Page 1"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "page 1"
+            ]
+          }
+        }
+      ],
       "width": 1016,
       "height": 1314,
       "thumbnail": [
@@ -343,6 +357,20 @@
           "cover page"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "cover page of H. Vergne Notebook 1"
+            ]
+          }
+        }
+      ],
       "width": 1026,
       "height": 1308,
       "thumbnail": [
