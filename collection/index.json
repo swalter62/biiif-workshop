@@ -215,7 +215,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "Page 1"
+                    "Balinese"
                   ]
                 },
                 "width": 1016,
@@ -228,10 +228,22 @@
       ],
       "label": {
         "@none": [
-          "Page 1"
+          "Balinese"
         ]
       },
       "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Breed"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Balinese"
+            ]
+          }
+        },
         {
           "label": {
             "@none": [
@@ -240,7 +252,7 @@
           },
           "value": {
             "@none": [
-              "page 1"
+              "The Balinese is a long-haired breed of domestic cat with Siamese-style point coloration and sapphire-blue eyes. The Balinese is also known as the purebred long-haired Siamese, since it originated as a natural mutation of that breed[1], and hence is essentially the same cat with a medium-length silky coat and a distinctively plumed tail. https://en.wikipedia.org/wiki/Balinese_cat"
             ]
           }
         }
