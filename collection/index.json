@@ -270,7 +270,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_cover"
+                    "cover page"
                   ]
                 },
                 "width": 1026,
@@ -283,7 +283,7 @@
       ],
       "label": {
         "@none": [
-          "_cover"
+          "cover page"
         ]
       },
       "width": 1026,
