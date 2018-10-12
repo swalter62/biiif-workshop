@@ -36,6 +36,20 @@
           "Page 1"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "page 1"
+            ]
+          }
+        }
+      ],
       "width": 1016,
       "height": 1314,
       "thumbnail": [
