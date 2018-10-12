@@ -1,10 +1,10 @@
 {
   "name": "biiif-workshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learn how to use [biiif](https://github.com/edsilv/biiif) to generate [IIIF](http://iiif.io) data from static files and host it on github pages.",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/biiif-workshop/collection -g",
+    "build": "biiif collection -u https://swalter62.github.io/biiif-workshop/collection -g",
     "testbuild": "node -e \"require('./node_modules/biiif/index.js').build('collection', 'https://edsilv.github.io/biiif-workshop/collection')\""
   },
   "repository": {

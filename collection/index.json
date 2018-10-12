@@ -1,30 +1,32 @@
 {
-  "id": "https://edsilv.github.io/biiif-workshop/collection/index.json",
+  "id": "https://swalter62.github.io/biiif-workshop/collection/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/0",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/0/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/0/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_abyssinian/abyssinian.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_abyssinian/abyssinian.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Abyssinian"
                   ]
-                }
+                },
+                "width": 600,
+                "height": 400
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/0"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/0"
             }
           ]
         }
@@ -60,36 +62,40 @@
           }
         }
       ],
+      "width": 600,
+      "height": 400,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_abyssinian/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_abyssinian/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_balinese/balinese.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_balinese/balinese.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Balinese"
                   ]
-                }
+                },
+                "width": 736,
+                "height": 552
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1"
             }
           ]
         }
@@ -125,36 +131,83 @@
           }
         }
       ],
+      "width": 736,
+      "height": 552,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_balinese/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_balinese/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_chartreux/chartreux.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_cat/cover.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Cat"
+                  ]
+                },
+                "width": 1016,
+                "height": 1314
+              },
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Cat"
+        ]
+      },
+      "width": 1016,
+      "height": 1314,
+      "thumbnail": [
+        {
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_cat/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_chartreux/chartreux.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Chartreux"
                   ]
-                }
+                },
+                "width": 1920,
+                "height": 1080
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3"
             }
           ]
         }
@@ -190,36 +243,40 @@
           }
         }
       ],
+      "width": 1920,
+      "height": 1080,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_chartreux/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_chartreux/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/3",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/3/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/3/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_egyptian-mau/egyptian-mau.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_egyptian-mau/egyptian-mau.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Egyptian Mau"
                   ]
-                }
+                },
+                "width": 1024,
+                "height": 805
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/3"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4"
             }
           ]
         }
@@ -255,36 +312,40 @@
           }
         }
       ],
+      "width": 1024,
+      "height": 805,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_egyptian-mau/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_egyptian-mau/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/4",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/4/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/4/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_himalayan/himalayan.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_himalayan/himalayan.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Himalayan"
                   ]
-                }
+                },
+                "width": 1280,
+                "height": 960
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/4"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5"
             }
           ]
         }
@@ -320,36 +381,40 @@
           }
         }
       ],
+      "width": 1280,
+      "height": 960,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_himalayan/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_himalayan/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/5",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/5/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/5/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_norwegian-forest-cat/norwegian-forest-cat.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_norwegian-forest-cat/norwegian-forest-cat.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Norwegian Forest Cat"
                   ]
-                }
+                },
+                "width": 900,
+                "height": 600
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/5"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6"
             }
           ]
         }
@@ -385,36 +450,40 @@
           }
         }
       ],
+      "width": 900,
+      "height": 600,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_norwegian-forest-cat/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_norwegian-forest-cat/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/6",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/6/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/6/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_persian/persian.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_persian/persian.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Persian"
                   ]
-                }
+                },
+                "width": 800,
+                "height": 533
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/6"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7"
             }
           ]
         }
@@ -450,36 +519,40 @@
           }
         }
       ],
+      "width": 800,
+      "height": 533,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_persian/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_persian/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/7",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/7/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/7/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_somali/somali.jpg",
+                "id": "https://swalter62.github.io/biiif-workshop/collection/_somali/somali.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
                     "Somali"
                   ]
-                }
+                },
+                "width": 1280,
+                "height": 790
               },
-              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/7"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8"
             }
           ]
         }
@@ -515,9 +588,11 @@
           }
         }
       ],
+      "width": 1280,
+      "height": 790,
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/biiif-workshop/collection/_somali/thumb.jpeg",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/_somali/thumb.jpeg",
           "type": "Image"
         }
       ]
