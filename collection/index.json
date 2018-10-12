@@ -40,12 +40,24 @@
         {
           "label": {
             "@none": [
-              "Description"
+              "Notebook"
             ]
           },
           "value": {
             "@none": [
-              "page 1"
+              1
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Page"
+            ]
+          },
+          "value": {
+            "@none": [
+              1
             ]
           }
         }
@@ -72,75 +84,6 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://swalter62.github.io/biiif-workshop/collection/_abyssinian/abyssinian.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "label": {
-                  "@none": [
-                    "Abyssinian"
-                  ]
-                },
-                "width": 600,
-                "height": 400
-              },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1"
-            }
-          ]
-        }
-      ],
-      "label": {
-        "@none": [
-          "Abyssinian"
-        ]
-      },
-      "metadata": [
-        {
-          "label": {
-            "@none": [
-              "Breed"
-            ]
-          },
-          "value": {
-            "@none": [
-              "Abyssinian"
-            ]
-          }
-        },
-        {
-          "label": {
-            "@none": [
-              "Description"
-            ]
-          },
-          "value": {
-            "@none": [
-              "The Abyssinian is a slender, fine-boned, medium-sized cat. The head is moderately wedge shaped, with a slight break at the muzzle, and nose and chin ideally forming a straight vertical line when viewed in profile. They have alert, relatively large pointed ears. The notably expressive eyes are almond shaped and are gold, green, hazel or copper depending on coat color. The legs should be long in proportion to a graceful body, with small oval paws; the tail is likewise long and tapering. https://en.wikipedia.org/wiki/Abyssinian_cat"
-            ]
-          }
-        }
-      ],
-      "width": 600,
-      "height": 400,
-      "thumbnail": [
-        {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/_abyssinian/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2",
-      "type": "Canvas",
-      "items": [
-        {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
                 "id": "https://swalter62.github.io/biiif-workshop/collection/_balinese/balinese.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
@@ -152,7 +95,7 @@
                 "width": 736,
                 "height": 552
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/1"
             }
           ]
         }
@@ -198,15 +141,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -221,7 +164,7 @@
                 "width": 1016,
                 "height": 1314
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/2"
             }
           ]
         }
@@ -267,15 +210,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -290,7 +233,7 @@
                 "width": 1920,
                 "height": 1080
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/3"
             }
           ]
         }
@@ -336,15 +279,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -353,35 +296,23 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "cover page"
+                    "Notebook 1 front"
                   ]
                 },
                 "width": 1026,
                 "height": 1308
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/4"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "cover page"
+          "Notebook 1 front"
         ]
       },
       "metadata": [
-        {
-          "label": {
-            "@none": [
-              "Breed"
-            ]
-          },
-          "value": {
-            "@none": [
-              "House cat"
-            ]
-          }
-        },
         {
           "label": {
             "@none": [
@@ -390,7 +321,7 @@
           },
           "value": {
             "@none": [
-              "cover page of H. Vergne Notebook 1"
+              "front cover of H. Vergne Notebook 1"
             ]
           }
         }
@@ -405,15 +336,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -428,7 +359,7 @@
                 "width": 1024,
                 "height": 805
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/5"
             }
           ]
         }
@@ -474,15 +405,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -497,7 +428,7 @@
                 "width": 1280,
                 "height": 960
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/6"
             }
           ]
         }
@@ -543,15 +474,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -566,7 +497,7 @@
                 "width": 900,
                 "height": 600
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/7"
             }
           ]
         }
@@ -612,15 +543,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -635,7 +566,7 @@
                 "width": 800,
                 "height": 533
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/8"
             }
           ]
         }
@@ -681,15 +612,15 @@
       ]
     },
     {
-      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/10",
+      "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/10/annotationpage/0",
+          "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/10/annotation/0",
+              "id": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -704,7 +635,7 @@
                 "width": 1280,
                 "height": 790
               },
-              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/10"
+              "target": "https://swalter62.github.io/biiif-workshop/collection/index.json/canvas/9"
             }
           ]
         }
@@ -752,7 +683,7 @@
   ],
   "label": {
     "@none": [
-      "Cats"
+      "Henri Vergne Notebooks"
     ]
   },
   "metadata": [
@@ -764,7 +695,7 @@
       },
       "value": {
         "@none": [
-          "Breeds of cats"
+          "Notebooks of Henri Vergne"
         ]
       }
     }
